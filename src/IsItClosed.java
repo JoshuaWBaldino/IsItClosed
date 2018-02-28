@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class IsItClosed 
+// this is a committ
 {
 	
 	// to run(in my opinion): Create new Java project called test, Create new class called IsItClosed.java,
